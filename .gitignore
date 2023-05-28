@@ -7,6 +7,5 @@ readmes/
 
 *.xd
 
-.gitignore
 .DS_Store
 .prettierignore
