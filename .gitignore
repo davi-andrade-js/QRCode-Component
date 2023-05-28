@@ -1,10 +1,5 @@
 *.sketch
 *.fig
-*.md
-
-design/
-readmes/
-
 *.xd
 
 .DS_Store
